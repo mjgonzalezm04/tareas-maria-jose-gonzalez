@@ -1,4 +1,4 @@
-# titular
+# REPORTAJE
 ## subtitulo
 ### sub - subtitulo
 
